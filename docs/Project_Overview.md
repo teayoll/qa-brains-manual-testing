@@ -6,7 +6,7 @@ QA BRAINS Practice Site — проект по ручному тестирова�
 
 ## Объект тестирования
 
-Веб-приложение: QA BRAINS Practice Site (https://practice.qabrains.com/?utm_source=chatgpt.com)
+Веб-приложение: QA BRAINS Practice Site (https://practice.qabrains.com)
 
 ## Описание приложения
 
